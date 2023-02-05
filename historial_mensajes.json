@@ -1,0 +1,34 @@
+[
+    {
+        "tipo": "Human",
+        "mensaje": "buen dia asistente"
+    },
+    {
+        "tipo": "AI",
+        "mensaje": "Asistente:\u00a1Hola! \u00a1Feliz d\u00eda! \u00bfEn qu\u00e9 puedo ayudarte?"
+    },
+    {
+        "tipo": "Human",
+        "mensaje": "cuantas pares son 3 botas?"
+    },
+    {
+        "tipo": "AI",
+        "mensaje": "Asistente:3 pares de botas equivalen a 6 botas."
+    },
+    {
+        "tipo": "Human",
+        "mensaje": "de que color es el cielo?"
+    },
+    {
+        "tipo": "AI",
+        "mensaje": "Asistente:El cielo se ve de diferentes colores, dependiendo del momento y la ubicaci\u00f3n. A menudo, el cielo se ve azul durante el d\u00eda y puede tener matices rojos, naranjas o violetas al atardecer."
+    },
+    {
+        "tipo": "Human",
+        "mensaje": "saludos, chau"
+    },
+    {
+        "tipo": "AI",
+        "mensaje": "Asistente:\u00a1Saludos y chau!"
+    }
+]
